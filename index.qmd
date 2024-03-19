@@ -1,11 +1,25 @@
 ---
-title: "Sakura_website"
+title: "Main Page"
+
 ---
 
-This is a Quarto website.
+<img src="portrait.jpg" alt="My Face" id="circle-image">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+# Bio
+Hello! I am Sakura an I am a third year Computer Science Specialist at University of Toronto!
+If you would like to contact me for any personal projects don't hestitate to contact me through the information at the bottom of the page!
+
+A little more about myself: 
+  * Some of my hobbies include swimming, reading (although I don't get a lot of time for it) and listening to music. I used to learn the piano but that was a long time ago 😀. 
+  * Future hobbies if I get the time: Skating, Snowboarding (can you tell I love winter), and learning to play the piano again!
+  * I have 2 completely different interests in terms of academics. I love the applications of computer science in biology and also in cyber security. I think its interesting how we can use these tool to help people in ways that make it more efficient in terms of time and cost!
+  
+Academic Interests I am currently pursuing: Investigating the capabilities of generative AI. Especially the commercialized ones that is accessible to the public, such as ChatGPT and Copilot. 
+
+
+# Contact
+
+You can email me at [sakura.noskor@mail.utoronto.ca](sakura.noskor@mail.utoronto.ca)
+
+For a more detailed list of my past experience please take a look at my [CV](resumé.pdf)

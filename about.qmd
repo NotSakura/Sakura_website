@@ -2,8 +2,9 @@
 title: "About"
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+# Contact Me
+You can email me at [sakura.noskor@mail.utoronto.ca](sakura.noskor@mail.utoronto.ca).
+Or you can reach me through my phone at (+1)437-214-9841
+Cjeck pout my projects at [github](https://github.com/NotSakura)
+-
